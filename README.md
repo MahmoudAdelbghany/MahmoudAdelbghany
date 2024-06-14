@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Graduation-2025-blue" alt="Graduation 2025">
 </p>
 
-<p align="center"> a fourth-year Computer Engineering student with a passion for low-level programming, electronics, and embedded systems. I have a strong background in baremetal programming and microcontroller (MCU) development. Currently, I'm diving deeper into the world of <strong>Embedded Linux</strong>.</p>
+<p align="center"> A fourth-year Computer Engineering student with a passion for low-level programming, electronics, and embedded systems. I have a strong background in baremetal programming and microcontroller (MCU) development. Currently, I'm diving deeper into the world of <strong>Embedded Linux</strong>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

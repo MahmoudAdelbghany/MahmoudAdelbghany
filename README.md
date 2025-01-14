@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 This is  Abdelghany</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=69A330&background=340B2700&width=435&lines=abghany%40MahmoudAbdelghany%3A~%24)](https://git.io/typing-svg)
 
 <p align="center">
     <img src="https://img.shields.io/badge/Embedded%20Linux-Learning-brightgreen" alt="Embedded Linux Learning">

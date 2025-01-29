@@ -40,3 +40,4 @@
         <img src="https://cdn.worldvectorlogo.com/logos/platformio.svg" alt="PlatformIO" width="40" height="40"/>
     </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAdelbghany)](https://github.com/anuraghazra/github-readme-stats)

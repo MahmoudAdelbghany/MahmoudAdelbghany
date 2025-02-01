@@ -70,7 +70,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmoudAdelbghany&layout=compact&theme=radical" alt="Top Languages">
-    </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAdelbghany&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="160px"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAdelbghany&theme=radical&hide_border=true" alt="GitHub Streak" height="160px"/>
 </p>

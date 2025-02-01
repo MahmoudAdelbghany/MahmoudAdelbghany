@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    A fourth-year Computer Engineering student with a passion for low-level programming, electronics, and embedded systems. 
+    A fivth-year Computer Engineering student with a passion for low-level programming, electronics, and embedded systems. 
     I have a strong background in baremetal programming and microcontroller (MCU) development. 
     Currently, I'm diving deeper into the world of <strong>Embedded Linux</strong>.
 </p>

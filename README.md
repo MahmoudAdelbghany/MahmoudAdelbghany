@@ -72,5 +72,10 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAdelbghany&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="160px"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://nirzak-streak-stats.vercel.app/?user=MahmoudAdelbghany&theme=radical&hide_border=true" alt="GitHub Streak" height="160px"/>
+    <a href="https://github-readme-streak-stats-abghan.vercel.app/demo/">
+    <img src="https://github-readme-streak-stats-abghan.vercel.app/?user=MahmoudAdelbghany&theme=radical&hide_border=true" 
+         alt="GitHub Streak" 
+         height="160px"/>
+</a>
+
 </p>

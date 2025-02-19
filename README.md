@@ -68,15 +68,5 @@
     </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAdelbghany&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="160px"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github-readme-streak-stats-abghan.vercel.app/demo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats-abghan.vercel.app/?user=MahmoudAdelbghany&theme=radical&hide_border=true" 
-         alt="GitHub Streak" 
-         height="160px"/>
-</a>
-
 
 </p>
